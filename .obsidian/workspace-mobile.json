@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2363e1aa0cb8233f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf062db218ed4f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d1942730610c7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "55e9d565ff51226c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6553293f4e6f70c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "368e6aaca4dbc222",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dd2f84e83f707e4c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#life",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b8a6417180073dc9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "624ab90833bddc53",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "c4b425aa851b935a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4af5c3ddda45a9f8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c82165580bfc7d05",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Memo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c30d9b6c3c1b5c07",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Memo.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dd2f84e83f707e4c",
+  "lastOpenFiles": [
+    "1 - Knowledge/Aiming for the Job.md",
+    "4 - Template/Untitled.md",
+    "4 - Template/Blog.md",
+    "3 - Tags/Life.md",
+    "2 - Post/2025-03-17-from-nihilism-to-the-ubermensch.md",
+    "2 - Post",
+    "3 - Tags/Learning.md",
+    "3 - Tags/Career.md",
+    "Memo.md",
+    "Knowledge/Aiming for the Job.md",
+    "Knowledge/The Importance of Smile.md",
+    "Knowledge/Inthelang.md",
+    "Knowledge/What kind of Software Engineer should I aim to be?.md",
+    "Knowledge/What to Study for BCI.md",
+    "2025-03-17.md",
+    "Post/2025-03-17-from-nihilism-to-the-ubermensch.md",
+    "Knowledge/Thriving Under Pressure - Hiroshi Ishii.md",
+    "Knowledge/What kind of Software Engineer should I aim?.md",
+    "Knowledge/How to showcase backend skills.md",
+    "Knowledge/From Nihilism to the Übermensch.md",
+    "Knowledge/Apr 24, 2025.md",
+    "Template/Post.md",
+    "Template/Default.md",
+    "Knowledge/資金.md"
+  ]
+}
