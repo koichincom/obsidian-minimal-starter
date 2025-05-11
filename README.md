@@ -6,22 +6,16 @@ This is a minimal starter template for Obsidian. You can download this repositor
 
 When you create a file in the "notes" folder, a new file named with the date is created with a frontmatter. The frontmatter has two properties, "created at" and "tags". You can put all your tags in the "tags" property to search the file or organize the files in graph view later.
 
----
-created at: {date:YYYY-MM-DD}
-tags: 
----
+created at: {date:YYYY-MM-DD}<br>
+tags:
 
 
 ## Posts
 
 When you create a file in the "posts" folder, a new file with frontmatter is created that I use for my personal blog. You can edit the template file to change however you like.
 
-![post property](./post.png)
-
----
-title: 
-subtitle: 
-date: 
-categories: 
-layout:
----
+title: <br>
+subtitle: <br>
+date: <br>
+categories: <br>
+layout: <br>
